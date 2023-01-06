@@ -1,1 +1,3 @@
 # gitrepoexercise
+apple
+orange
